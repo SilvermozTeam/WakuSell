@@ -1,0 +1,12 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-addons",
+  "name": "WakuSell",
+  "license": "proprietary",
+  "category": "domains",
+  "description": {
+    "name": "WakuSell",
+    "tagline": "",
+    "long": "WakuSell is one of the fastest growing registrars in Africa and an Expert on Reseller"
+  }
+}
